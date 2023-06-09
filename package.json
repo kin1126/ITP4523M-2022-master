@@ -1,0 +1,24 @@
+{
+  "name": "itp4523m",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "complie:sass": "sass --watch static/scss:static/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ryuuu825/ITP4523M.git"
+  },
+  "author": "Ken, Ben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ryuuu825/ITP4523M/issues"
+  },
+  "homepage": "https://github.com/Ryuuu825/ITP4523M#readme",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "sass": "^1.52.1"
+  }
+}
